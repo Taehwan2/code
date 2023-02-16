@@ -4,8 +4,9 @@
 
 <br />
 
-이 Repository를 fork한 후 pair와 함께 Simple Git Workflow를
-
+이 Repository를 fork한 후 pair와 함께 Simple Git Workflow
+를
+수 정 수 정 수정
 <br />
 
 이 스프린트는 제출할 필요는 없습니다.
